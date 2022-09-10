@@ -1,0 +1,12 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "y",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.144.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-glsl": "^2.7.0"
+  }
+}
